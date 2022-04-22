@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pierre222222
 - 👀 I’m interested in C#
-- 🌱 I’m currently developing a defect tool for construction companies (sorry that one is private)
+- 🌱 I’m currently developing a defect tool for construction companies on my spare time (sorry that one is private)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
